@@ -1,0 +1,46 @@
+.jumbotron {
+    background-image: url("https://codehs.com/uploads/5c8b5aa06a4236ede910bec480f7bd44");
+    background-size: 100% 100%;
+    height:100%;
+    max-height: 350px;
+    margin:0px;
+    border-radius: 0px 15px 15px 0px;
+    width:74%;
+ 
+
+}
+.col-md-4{
+ 
+}
+#olive{
+    width:24%;
+    border-radius: 15px 0px 0px 15px;
+    height:350px;
+    max-height:75%;
+    
+}
+body{
+    background-color:#bab86c;
+}
+
+.maintext{
+    overflow: hidden;
+    color: white;
+    -webkit-text-stroke-width: 1px;
+   -webkit-text-stroke-color: black;
+    font-weight: bold;
+    font-family: Arial Black;
+    font-size:90%;
+    background-color:rgba(186, 184, 108, .45);
+   border-radius: 20px;
+   padding:4px;
+}
+
+
+.container-fluid{
+   margin-left:12px;
+}
+
+.btn{
+    background-color:#556B2F;
+}
